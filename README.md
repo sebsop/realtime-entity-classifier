@@ -51,7 +51,7 @@ This project combines transfer learning with efficient model deployment to creat
 
 ```bash
 # Clone the repository
-git clone https://github.com/dosqas/Realtime-Entity-Classifier.git
+git clone https://github.com/sebsop/Realtime-Entity-Classifier.git
 cd Realtime-Entity-Classifier
 
 # Create and activate virtual environment
